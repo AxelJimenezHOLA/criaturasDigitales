@@ -14,7 +14,7 @@
 #define NIVEL_MINIMO 1
 #define NIVEL_MAXIMO 100
 #define EXPERIENCIA_POR_NIVEL 1575
-#define ARCHIVO_ESPECIES "especiesDisponibles.txt"
+#define ARCHIVO_ESPECIES "..\\especiesDisponibles.txt"
 #define ARCHIVO_LISTA "pokemonGuardados.bin"
 
 /***********/

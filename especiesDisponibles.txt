@@ -1,4 +1,4 @@
-Bulbasaur
+ Bulbasaur
 Ivysaur
 Venusaur
 Charmander
@@ -666,7 +666,7 @@ Spewpa
 Vivillon
 Litleo
 Pyroar
-Flabébé
+Flabï¿½bï¿½
 Floette
 Florges
 Skiddo
